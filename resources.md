@@ -20,6 +20,8 @@ Not required to purchase, but we may read sections of these.
   (Full text available as online book)
 * [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) <br/>
   Edward Tufte
+* [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
+  Miguel Hernán and James Robins
 
 ### Articles
 
@@ -39,6 +41,8 @@ Not required to purchase, but we may read sections of these.
   Lukas Weber *et al.*
 * [Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290) <br/>
   Lucy D’Agostino McGowan, Roger Peng, and Stephanie Hicks
+  [Target Trial Emulation: A Framework for Causal Inference From Observational Data](https//doi.org/10.1001/jama.2022.21383) <br/>
+  Miguel Hernán, Wei Wang, and David Leaf
 * [Simple rules for concise scientific writing](https://doi.org/10.1002/lol2.10165) <br/>
   Scott Hotaling
 
