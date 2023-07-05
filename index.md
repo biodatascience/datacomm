@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Communication - BCB 724
+title: Data Communication
 description: Course website for Data Communication
 ---
 
