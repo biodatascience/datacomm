@@ -15,6 +15,8 @@ Not required to purchase, but we may read sections of these.
   Gary Black and Robert Bly
 * [Thicker than Blood: How Racial Statistics Lie](https://www.upress.umn.edu/book-division/books/thicker-than-blood) <br/> 
   Tukufu Zuberi
+* [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
+  Andrew Gelman and Jennifer Hill
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) <br/>
   Claus Wilke <br/>
   (Full text available as online book)
