@@ -41,7 +41,7 @@ Not required to purchase, but we may read sections of these.
   Lukas Weber *et al.*
 * [Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290) <br/>
   Lucy D’Agostino McGowan, Roger Peng, and Stephanie Hicks
-  [Target Trial Emulation: A Framework for Causal Inference From Observational Data](https//doi.org/10.1001/jama.2022.21383) <br/>
+* [Target Trial Emulation: A Framework for Causal Inference From Observational Data](https//doi.org/10.1001/jama.2022.21383) <br/>
   Miguel Hernán, Wei Wang, and David Leaf
 * [Simple rules for concise scientific writing](https://doi.org/10.1002/lol2.10165) <br/>
   Scott Hotaling
