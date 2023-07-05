@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Communication
+title: Data Communication - BCB 724
 description: Course website for Data Communication
 ---
 
@@ -16,4 +16,3 @@ data analysis (EDA), and how to visualize, write, and talk about data
 in contexts such as emails, reports, lab meetings, publications, and
 conference presentations. No technical or statistical background
 required for enrollment. 
-

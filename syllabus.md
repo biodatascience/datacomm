@@ -62,10 +62,13 @@ This course is modeled on similar courses, including Dr. Amelia McNamara's
 from University of St Thomas, Dr. Karl Broman's 
 [BMI 883](https://kbroman.org/BMI883/) and [BMI 884](https://kbroman.org/BMI884/)
 "Biomedical data science professional skills"
-from University of Wisconsin-Madison, and 
+from University of Wisconsin-Madison, 
 [STATS 404](https://dept.stat.lsa.umich.edu/~ritterma/stat404/syllabus.html) 
 "Biomedical data science professional skills"
-from University of Michigan. 
+from University of Michigan, and 
+[Written and Oral Communication in Data Science](https://leanpub.com/universities/courses/jhu/cbds-communication)
+from Jeffrey Leek, Candace Savonen, Shannon Ellis, and Davon Person
+at Johns Hopkins University.
 
 ### Optional textbooks
 
