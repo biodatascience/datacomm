@@ -37,6 +37,8 @@ Not required to purchase, but we may read sections of these.
   Karl Broman and Kara Woo
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/:10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
+* [The five pillars of computational reproducibility: Bioinformatics and beyond](https://osf.io/4pd9n/) <br/>
+  Mark Ziemann, Pierre Poulain, Anusuiya Bora
 * [Over-optimism in bioinformatics: an illustration](https://doi.org/10.1093/bioinformatics/btq323) <br/>
   Monika Jelizarow *et al.*
 * [Essential guidelines for computational method benchmarking](https://doi.org/10.1186/s13059-019-1738-8) <br/>
