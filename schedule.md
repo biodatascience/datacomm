@@ -5,7 +5,7 @@ title: Schedule
 
 | Date   | &nbsp;&nbsp;&nbsp;&nbsp; | Topic/Reading  |
 | :----- | -- | :----- |
-| Nov 02 |    | Introduction, active listening, audience analysis |
+| Nov 02 |    | Introduction, audience analysis <font color="red">[due to ASHG conflict, this will be a pre-recorded lecture]</font> |
 | Nov 07 |    | Reading as a writer |
 | Nov 09 |    | Describing data, exploratory data analysis, data organization |
 | Nov 14 |    | Data visualization, multivariate graphs, visual argument |
