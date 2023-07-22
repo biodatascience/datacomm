@@ -3,6 +3,14 @@ layout: page
 title: Resources
 ---
 
+### UNC resources and groups
+
+* [Science Writing and Communication Club](http://www.thepipettepen.com/about-the-pipettepen/) (SWAC) at UNC
+* [The Pipette Pen](http://www.thepipettepen.com/), the blog of the SWAC
+* [Training Initiatives in Biomedical and Biological Sciences](https://tibbs.unc.edu/career-resources/programming/) (TIBBS) programming
+* [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/sciences/) tips and tools
+* [Carolina Scientific](https://www.carolinascientific.org/) magazine
+
 ### Textbooks
 
 Not required to purchase, but we may read sections of these.
