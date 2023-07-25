@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
+All classes except for Nov 2 (pre-recorded) will be in 2004 Marsico.
+
 | Date   | &nbsp;&nbsp;&nbsp;&nbsp; | Topic/Reading  |
 | :----- | -- | :----- |
 | Nov 02 |    | Introduction, audience analysis <font color="red">[due to ASHG conflict, this will be a pre-recorded lecture]</font> |
