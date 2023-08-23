@@ -43,7 +43,7 @@ Not required to purchase, but we may read sections of these.
   Brett Mensh and Konrad Kording
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) <br/>
   Karl Broman and Kara Woo
-* [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/:10.1371/journal.pcbi.1000424) <br/>
+* [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
 * [The five pillars of computational reproducibility: Bioinformatics and beyond](https://osf.io/4pd9n/) <br/>
   Mark Ziemann, Pierre Poulain, Anusuiya Bora
