@@ -54,6 +54,34 @@ practice verbal communication by presenting a (digital) poster, where
 they will create and present slides showing the results of a data
 analysis.
 
+### Generative AI
+
+It is allowed to use Generative AI (e.g. ChatGPT) to correct
+spelling/grammar in your assignments in BCB 724.
+
+I do not want students to use Generative AI to write entire paragraphs
+of text and submit as one's own work, nor to critique others'
+work. This type of usage is therefore not allowed in BCB 724. The
+reason for this is to help students develop inherent communication
+skills, which you can draw on in a variety of contexts, including
+collaborative meetings and conferences. I will not use Generative AI
+to grade your assignments, and I would ask you and your peers to do
+the same.
+
+Generative AI can be useful in drafting boilerplate communications,
+or in brainstorming topic outlines, but I recommend to read the 
+[Guidance from the UNC Committee](https://provost.unc.edu/generative-ai-usage-guidance-for-the-research-community/)
+on usage in research, in particular risks regarding bias,
+confidentiality, and intellectual property/plagiarism.
+It is never allowed to paste HIPAA- or FERPA-protected data into
+public Generative AI tools.
+
+I would also recommend against using Generative AI for writing code
+for the few coding assignments. For someone who is still learning
+programming, this strategy may save you time in the short term, but
+tends to produce a shallower form of understanding, and limit your
+skills in the long term.
+
 ### Related courses
 
 This course is modeled on similar courses, including Dr. Amelia McNamara's
