@@ -35,6 +35,8 @@ Not required to purchase, but we may read sections of these.
 
 ### Articles
 
+* [Defensive Communication](https://www.jstor.org/stable/42574118) <br/>
+  Jack Gibb
 * [Ten simple rules to cultivate transdisciplinary collaboration in data science](https://doi.org/10.1371/journal.pcbi.1008879) <br/>
   Faryad Sahneh and Meghan Balk *et al.*
 * [Training Interdisciplinary Data Science Collaborators: A Comparative Case Study](https://doi.org/10.1080/26939169.2023.2191666) <br/>

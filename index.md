@@ -12,6 +12,8 @@ Data Communication - BCB 724 will be offered for the first time Fall
 [November 2 to December 5](schedule). 
 This BCB module will be taught by [Michael Love](https://mikelove.github.io).
 
+**Contact:** love [at] unc.edu, please include **"724"** in the subject line.
+
 This course is designed to prepare students to be effective
 communicators of the results of analyses of biological and biomedical
 data. Students will learn methods for data assessment and exploratory
@@ -19,3 +21,14 @@ data analysis (EDA), and how to visualize, write, and talk about data
 in contexts such as emails, reports, lab meetings, publications, and
 conference presentations. No technical or statistical background
 required for enrollment. 
+
+**Accessibility**
+
+I seek to make the course content accessible to all students.  Please
+reach out to me via [ARS Hub](http://arshub.unc.edu/) if you have any
+accommodations needed for accessibility. This will send me an email. I
+will provide digital copies of all required reading. Aside from the
+first class, which will be a pre-recorded lecture, the rest of the
+classes will be in-person at 2004 Marsico, and typically involve
+discussion, breakout groups, and exchanging of student-created
+content (e.g. reading and critiquing content from other students).
