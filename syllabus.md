@@ -26,15 +26,14 @@ required for enrollment.
 To obtain full credit, students must attend 7/9 of the lectures,
 complete all reading and homework assignments, and achieve a passing
 grade overall. If any students believe they may have to miss more that
-2 of the lectures, they must discuss this with the lead instructor
+two of the lectures, they must discuss this with the lead instructor
 in advance.
 
 ### Grading rubric
 
 * Reading quizzes: 15%
-* Homework assignments: 60%
-* Cross-evaluations: 10%
-* Poster session 15%
+* Homework assignments: 70%
+* Cross-evaluations: 15%
 
 ### Syllabus
 
@@ -45,14 +44,11 @@ discussions and quizzes on that material. Students will explore
 datasets provided during the course, and typical homework assignments
 will be to present a particular data analysis result in a written
 report. Basic R or python code can be used in these
-assignments. Students will be assessed on presentation quality,
-whereas other BCB courses such as BCB 720 (which can be taken
+assignments. Students will be assessed on communication/presentation
+quality, whereas other BCB courses such as BCB 720 (which can be taken
 concurrently) focus on statistical inference. Students will evaluate
 the written products (homework) of other students, to develop their
-critical mindset for technical diagrams and writing. Students will
-practice verbal communication by presenting a (digital) poster, where
-they will create and present slides showing the results of a data
-analysis.
+critical mindset for technical diagrams and writing.
 
 ### Generative AI
 
