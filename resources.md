@@ -3,70 +3,91 @@ layout: page
 title: Resources
 ---
 
-### UNC resources and groups
+## Textbooks
 
-* [Science Writing and Communication Club](http://www.thepipettepen.com/about-the-pipettepen/) (SWAC) at UNC
-* [The Pipette Pen](http://www.thepipettepen.com/), the blog of the SWAC
-* [Training Initiatives in Biomedical and Biological Sciences](https://tibbs.unc.edu/career-resources/programming/) (TIBBS) programming
-* [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/sciences/) tips and tools
-* [Carolina Scientific](https://www.carolinascientific.org/) magazine
-
-### Textbooks
-
-Not required to purchase, but we may read sections of these.
+Not required to purchase, but we will read sections of these:
 
 * [Communicating with Data: The Art of Writing for Data Science](https://a.co/d/daBTkkR) <br/>
-  Deborah Nolan and Sara Stoudt <br/>
-  ISBN: 9780192607508 <br/>
-  (Full text available via the [UNC-Chapel Hill Libraries](https://library.unc.edu))
+  Deborah Nolan and Sara Stoudt - ISBN: 9780192607508 <br/>
+  (Full text available via the [UNC-Chapel Hill Libraries](https://library.unc.edu), I have discount code if you want physical copy)
 * [The Elements of Technical Writing](https://a.co/d/0i6KCXe) <br/> 
   Gary Black and Robert Bly
 * [Thicker than Blood: How Racial Statistics Lie](https://www.upress.umn.edu/book-division/books/thicker-than-blood) <br/> 
   Tukufu Zuberi
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (online) <br/>
+  Claus Wilke
+
+Additional:
+
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
   Andrew Gelman and Jennifer Hill
-* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) <br/>
-  Claus Wilke <br/>
-  (Full text available as online book)
 * [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) <br/>
   Edward Tufte
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
   Miguel Hernán and James Robins
 
-### Articles
+## Articles
+
+#### Listening
 
 * [Defensive Communication](https://www.jstor.org/stable/42574118) <br/>
   Jack Gibb
-* [Ten simple rules to cultivate transdisciplinary collaboration in data science](https://doi.org/10.1371/journal.pcbi.1008879) <br/>
-  Faryad Sahneh and Meghan Balk *et al.*
-* [Training Interdisciplinary Data Science Collaborators: A Comparative Case Study](https://doi.org/10.1080/26939169.2023.2191666) <br/>
-  Jessica Alzen *et al.*
+* [How to Become a Better Listener ](https://hbr.org/2021/12/how-to-become-a-better-listener) <br/>
+  Robin Abrahams and Boris Groysberg
+* [What Great Listeners Actually Do](https://hbr.org/2016/07/what-great-listeners-actually-do) <br/>
+  How to Become a Better Listener 
+
+#### Reading as a writer
+  
 * [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619) <br/>
   Brett Mensh and Konrad Kording
+
+#### Data and project organization
+
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) <br/>
   Karl Broman and Kara Woo
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
+
+#### Reproducibility
+
 * [The five pillars of computational reproducibility: Bioinformatics and beyond](https://osf.io/4pd9n/) <br/>
   Mark Ziemann, Pierre Poulain, Anusuiya Bora
 * [Over-optimism in bioinformatics: an illustration](https://doi.org/10.1093/bioinformatics/btq323) <br/>
   Monika Jelizarow *et al.*
 * [Essential guidelines for computational method benchmarking](https://doi.org/10.1186/s13059-019-1738-8) <br/>
   Lukas Weber *et al.*
+
+#### Design of data analysis
+
 * [Design Principles for Data Analysis](https://doi.org/10.1080/10618600.2022.2104290) <br/>
   Lucy D’Agostino McGowan, Roger Peng, and Stephanie Hicks
 * [Target Trial Emulation: A Framework for Causal Inference From Observational Data](https//doi.org/10.1001/jama.2022.21383) <br/>
   Miguel Hernán, Wei Wang, and David Leaf
+* [Story Telling in Data Analysis](https://rdpeng.org/ads2020/week-9.html) <br/>
+  Roger Peng
+
+#### Concise science writing
+
 * [Simple rules for concise scientific writing](https://doi.org/10.1002/lol2.10165) <br/>
   Scott Hotaling
 
-### Online chapters
+#### Interdisciplinary collaboration
 
-* [How to Become a Better Listener ](https://hbr.org/2021/12/how-to-become-a-better-listener) <br/>
-  Robin Abrahams and Boris Groysberg
-* [What Great Listeners Actually Do](https://hbr.org/2016/07/what-great-listeners-actually-do) <br/>
-  How to Become a Better Listener 
-* [Story Telling in Data Analysis](https://rdpeng.org/ads2020/week-9.html) <br/>
-  Roger Peng
+* [Ten simple rules to cultivate transdisciplinary collaboration in data science](https://doi.org/10.1371/journal.pcbi.1008879) <br/>
+  Faryad Sahneh and Meghan Balk *et al.*
+* [Training Interdisciplinary Data Science Collaborators: A Comparative Case Study](https://doi.org/10.1080/26939169.2023.2191666) <br/>
+  Jessica Alzen *et al.*
+
+#### Presentations
+
 * [Why Give Data Analytic Presentations](https://rdpeng.org/ads2020/week-12.html) <br/>
   Roger Peng
+
+## UNC resources and groups
+
+* [Science Writing and Communication Club](http://www.thepipettepen.com/about-the-pipettepen/) (SWAC) at UNC
+* [The Pipette Pen](http://www.thepipettepen.com/), the blog of the SWAC
+* [Training Initiatives in Biomedical and Biological Sciences](https://tibbs.unc.edu/career-resources/programming/) (TIBBS) programming
+* [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/sciences/) tips and tools
+* [Carolina Scientific](https://www.carolinascientific.org/) magazine
