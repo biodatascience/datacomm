@@ -3,7 +3,7 @@ layout: page
 title: Schedule
 ---
 
-All classes except for Nov 2 (pre-recorded) will be in 2004 Marsico.
+All classes except for Nov 2 (pre-recorded) and Nov 21 (zoom) will be in 2004 Marsico.
 
 * [Assignments spreadsheet](https://docs.google.com/spreadsheets/d/1yg4LUYnHQ5A9KbaC08t0Z9FL6Q-Mc-tabcO4cVwTZ38/edit?usp=sharing)
 
