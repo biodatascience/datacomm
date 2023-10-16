@@ -14,7 +14,7 @@ All classes except for Nov 2 (pre-recorded) will be in 2004 Marsico.
 | Nov 09 | 🗂️  | Describing data, exploratory data analysis (EDA), data organization |
 | Nov 14 | 📈 | Data visualization, visual argument |
 | Nov 16 | 💻 | Communicating through code, code organization |
-| Nov 21 | 🎯 | Narrative arc, design principles for data analysis, causal effects vs causal theories |
+| Nov 21 | 🎯 | Narrative arc, design principles <font color="red">[this will be a Zoom class session]</font> |
 | Nov 28 | ✒️  | Concise science writing |
 | Nov 30 | 👥 | Interdisciplinary collaboration and data science |
 | Dec 05 | 🎤 | Data analytic presentations |
