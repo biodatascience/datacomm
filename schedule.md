@@ -16,5 +16,5 @@ All classes except for Nov 2 (pre-recorded) and Nov 21 (zoom) will be in 2004 Ma
 | Nov 16 | 💻 | Communicating through code, code organization |
 | Nov 21 | 🎯 | Narrative arc, design principles <font color="red">[this will be a Zoom class session]</font> |
 | Nov 28 | ✒️  | Concise science writing |
-| Nov 30 | 👥 | Interdisciplinary collaboration and data science |
+| Nov 30 | 👥 | Interdisciplinary collaboration, causal theories |
 | Dec 05 | 🎤 | Data analytic presentations |
