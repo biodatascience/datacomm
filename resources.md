@@ -91,3 +91,4 @@ Additional:
 * [Training Initiatives in Biomedical and Biological Sciences](https://tibbs.unc.edu/career-resources/programming/) (TIBBS) programming
 * [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/sciences/) tips and tools
 * [Carolina Scientific](https://www.carolinascientific.org/) magazine
+* [NC DNA Day blog](http://ncdnaday.org/blog/)
