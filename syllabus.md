@@ -82,7 +82,7 @@ skills in the long term.
 
 This course is modeled on similar courses, including Dr. Amelia McNamara's
 [STAT 336](https://www.amelia.mn/STAT336/) 
-"Biomedical data science professional skills"
+"Data Communication and Visualization"
 from University of St Thomas, Dr. Karl Broman's 
 [BMI 883](https://kbroman.org/BMI883/) and [BMI 884](https://kbroman.org/BMI884/)
 "Biomedical data science professional skills"
