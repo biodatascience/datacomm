@@ -44,7 +44,7 @@ discussions and quizzes on that material. Students will explore
 datasets provided during the course, and typical homework assignments
 will be to present a particular data analysis result in a written
 report. Basic R or python code can be used in these
-assignments. Students will be assessed on communication/presentation
+assignments. Students will be assessed on communication
 quality, whereas other BCB courses such as BCB 720 (which can be taken
 concurrently) focus on statistical inference. Students will evaluate
 the written products (homework) of other students, to develop their
