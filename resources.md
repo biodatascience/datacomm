@@ -48,7 +48,10 @@ Additional:
   Karl Broman and Kara Woo
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
-
+* [Commit-to-change](https://github.com/franzenr/commit-to-change#resources) Resources <br/>
+  Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects </br> 
+  Given at Posit::conf(2023) on 20 September 2023
+  
 #### Reproducibility
 
 * [The five pillars of computational reproducibility: Bioinformatics and beyond](https://osf.io/4pd9n/) <br/>
