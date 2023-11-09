@@ -49,7 +49,7 @@ Additional:
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
 * [Commit-to-change](https://github.com/franzenr/commit-to-change#resources) Resources <br/>
-  Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects </br> 
+  Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects <br/> 
   Given at Posit::conf(2023) on 20 September 2023
   
 #### Reproducibility
@@ -79,8 +79,10 @@ Additional:
 
 * [Ten simple rules to cultivate transdisciplinary collaboration in data science](https://doi.org/10.1371/journal.pcbi.1008879) <br/>
   Faryad Sahneh and Meghan Balk *et al.*
-* [Training Interdisciplinary Data Science Collaborators: A Comparative Case Study](https://doi.org/10.1080/26939169.2023.2191666) <br/>
-  Jessica Alzen *et al.*
+* [How to share data for collaboration](https://doi.org/10.1080%2F00031305.2017.1375987) <br/>
+  Shannon E. Ellis and Jeffrey T. Leek
+* [You Are Not Working for Me; I Am Working with You](https://doi.org/10.1371/journal.pcbi.1004387) <br/>
+  Florian Markowetz
 
 #### Presentations
 
