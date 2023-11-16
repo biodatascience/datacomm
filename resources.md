@@ -97,3 +97,8 @@ Additional:
 * [The Writing Center](https://writingcenter.unc.edu/tips-and-tools/sciences/) tips and tools
 * [Carolina Scientific](https://www.carolinascientific.org/) magazine
 * [NC DNA Day blog](http://ncdnadayblog.org)
+
+# Bioinformatics resources
+
+* [Bioinformatics Data Skills](https://vincebuffalo.com/book/) - Vince Buffalo
+
