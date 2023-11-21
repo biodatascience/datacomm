@@ -7,22 +7,31 @@ title: Resources
 
 Not required to purchase, but we will read sections of these:
 
+#### Writing
+
 * [Communicating with Data: The Art of Writing for Data Science](https://a.co/d/daBTkkR) <br/>
   Deborah Nolan and Sara Stoudt - ISBN: 9780192607508 <br/>
   (Full text available via the [UNC-Chapel Hill Libraries](https://library.unc.edu), I have discount code if you want physical copy)
 * [The Elements of Technical Writing](https://a.co/d/0i6KCXe) <br/> 
   Gary Black and Robert Bly
+
+#### Causal inference and societal impact of data analysis
+
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
   Miguel Hernán and James Robins  
 * [Thicker than Blood: How Racial Statistics Lie](https://www.upress.umn.edu/book-division/books/thicker-than-blood) <br/> 
   Tukufu Zuberi
+* [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) <br/>
+  Caroline Criado Perez
+* [Data Feminism](https://data-feminism.mitpress.mit.edu/) <br/>
+  Catherine D'Ignazio and Lauren F. Klein
+
+#### Visualization and modeling
+
 * [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) <br/>
   Edward Tufte
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (online) <br/>
   Claus Wilke
-
-Additional:
-
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
   Andrew Gelman and Jennifer Hill
 
