@@ -105,7 +105,7 @@ title: Resources
 * [Carolina Scientific](https://www.carolinascientific.org/) magazine
 * [NC DNA Day blog](http://ncdnadayblog.org)
 
-# Bioinformatics resources
+## Bioinformatics resources
 
 * [Bioinformatics Data Skills](https://vincebuffalo.com/book/) - Vince Buffalo
 
