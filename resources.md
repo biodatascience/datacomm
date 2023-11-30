@@ -5,8 +5,6 @@ title: Resources
 
 ## Textbooks
 
-Not required to purchase, but we will read sections of these:
-
 #### Writing
 
 * [Communicating with Data: The Art of Writing for Data Science](https://a.co/d/daBTkkR) <br/>
