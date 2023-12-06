@@ -10,7 +10,7 @@ description: Course website for Data Communication at UNC
 Data Communication - UNC BCB 724 will be offered for the first time Fall
 2023 at 11:00-12:15 TuTh, in 2004 Marsico, running from 
 [November 2 to December 5](schedule). 
-This BCB module will be taught by [Michael Love](https://mikelove.github.io).
+This BCB module will be taught by [Michael Love](https://mikelove.github.io) (he/him).
 
 **Contact:** love [at] unc.edu, please include **"724"** in the subject line.
 
