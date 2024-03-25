@@ -81,6 +81,8 @@ title: Resources
 
 * [Simple rules for concise scientific writing](https://doi.org/10.1002/lol2.10165) <br/>
   Scott Hotaling
+* [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) <br/>
+  George Gopen and Judith Swan
 
 #### Interdisciplinary collaboration
 
