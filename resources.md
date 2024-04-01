@@ -55,6 +55,7 @@ title: Resources
   Karl Broman and Kara Woo
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
+* [The FAIR Guiding Principles for scientific data management and stewardship](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/)
 * [Commit-to-change](https://github.com/franzenr/commit-to-change#resources) Resources <br/>
   Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects <br/> 
   Given at Posit::conf(2023) on 20 September 2023
