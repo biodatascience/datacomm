@@ -53,6 +53,8 @@ title: Resources
 
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) <br/>
   Karl Broman and Kara Woo
+* [Planning and interpreting simulation studies with design and analysis of experiments](https://doi.org/10.1002/cjs.11719) <br/>
+  Hugh Chipman and Derek Bingham
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
 * [The FAIR Guiding Principles for scientific data management and stewardship](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/)
