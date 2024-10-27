@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 ---
 
+[Assignments/readings](https://docs.google.com/spreadsheets/d/1yg4LUYnHQ5A9KbaC08t0Z9FL6Q-Mc-tabcO4cVwTZ38/edit?gid=0#gid=0)
+
 | Date   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic |
 | :----- | :--: | :---- |
 | Oct 31 | 👁️  | Reading as a writer, structure of a science paper |
