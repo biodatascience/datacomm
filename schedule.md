@@ -14,5 +14,5 @@ title: Schedule
 | Nov 14 | 💻 | Communicating through code, code organization |
 | Nov 19 | 🎯 | Narrative arc, design principles |
 | Nov 21 | ✒️  | Concise science writing |
-| Nov 26 | ➡️  | Causal inference, causal theories |
+| Nov 26 | ➡️  | Causal inference |
 | Dec 03 | 👥 | Interdisciplinary collaboration & presentations |
