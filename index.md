@@ -9,6 +9,8 @@ description: Course website for Data Communication at UNC
 
 Fall 2024: 2:00-3:15 TuTh, [Oct 31 -- Dec 3](schedule).
 
+Location: 6004 Marsico Hall
+
 This BCB module will be taught by [Michael Love](https://mikelove.github.io) (he/him).
 
 **Contact:** love [at] unc.edu, please include **"724"** in the subject line.
