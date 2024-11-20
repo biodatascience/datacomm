@@ -11,7 +11,7 @@ Location: 6004 Marsico Hall
 | :----- | :--: | :---- |
 | Oct 31 | 👁️  | Reading as a writer, structure of a science paper |
 | Nov 05 | ~  | Pre-recorded lecture |
-| Nov 07 | 🗂️  | Describing data, data organization ([zoom](https://zoom.us/j/97314304076?pwd=fNfpGFxYmki10QbLx5acVLWUZuJMwD.1)) |
+| Nov 07 | 🗂️  | Describing data, data organization
 | Nov 12 | 📈 | Data visualization, visual argument |
 | Nov 14 | 💻 | Communicating through code, code organization |
 | Nov 19 | 🎯 | Narrative arc, design principles |
