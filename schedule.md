@@ -16,5 +16,5 @@ Location: 6004 Marsico Hall
 | Nov 14 | 💻 | Communicating through code, code organization |
 | Nov 19 | 🎯 | Narrative arc, design principles |
 | Nov 21 | ✒️  | Concise science writing |
-| Nov 26 | ➡️  | Causal inference |
-| Dec 03 | 👥 | Interdisciplinary collaboration & presentations |
+| Dec 03 | ➡️  | Causal inference |
+| ~~~~~~ | 👥 | Interdisciplinary collaboration & presentations |
