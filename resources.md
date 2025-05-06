@@ -12,6 +12,7 @@ title: Resources
   (Full text available via the [UNC-Chapel Hill Libraries](https://library.unc.edu), I have discount code if you want physical copy)
 * [The Elements of Technical Writing](https://a.co/d/0i6KCXe) <br/> 
   Gary Black and Robert Bly
+* ![Project design and evolution](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-025-02635-7/MediaObjects/41587_2025_2635_Fig1_HTML.png?as=webp) from [Yanai and Lercher](https://doi.org/10.1038/s41587-025-02635-7)
 
 #### Causal inference and societal impact of data analysis
 
