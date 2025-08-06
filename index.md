@@ -7,7 +7,7 @@ description: Course website for Data Communication at UNC
 
 <a href="https://doi.org/10.1038/nature11241"><img src="assets/images/banana.png" width="300" title="Figure 4 from D'Hont et al (2012) showing six-way Venn diagram of gene clusters across species"/></a> <a href="https://gist.github.com/mikelove/8d4fd58d9a65bcf3cc26a1ef758022cf"><img src="assets/images/banana_upset.png" width="350" title="Remake of Figure 4 from D'Hont et al (2012) using UpSetR package"/></a>
 
-Fall 2024: 2:00-3:15 TuTh, [Oct 31 -- Dec 3](schedule).
+Fall 2025: 2:00-3:15 TuTh, [Oct 30 -- Dec 4](schedule).
 
 Location: 6004 Marsico Hall
 
