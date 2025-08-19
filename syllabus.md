@@ -31,9 +31,9 @@ in advance.
 
 ### Grading rubric
 
-* Reading quizzes: 15%
-* Homework assignments: 70%
-* Cross-evaluations: 15%
+* Reading quizzes: 30%
+* Homework assignments: 60%
+* Cross-evaluations: 10%
 
 ### Syllabus
 
