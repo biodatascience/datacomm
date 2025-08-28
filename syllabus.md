@@ -3,13 +3,21 @@ layout: page
 title: Syllabus
 ---
 
-### Instructor
+### Instructors
+
+*Primary faculty*
 
 Dr. Michael Love <br/>
 Department of Genetics <br/>
 Department of Biostatistics <br/>
 5009 Genetic Medicine Building (GMB) <br/>
-Email: love at unc dot edu 
+Email: love at unc.edu 
+
+*TA*
+
+Brittanie Winfield <br/>
+BCB PhD candidate in Linnstaedt lab <br/>
+Email: brittwin at email.unc.edu
 
 ### Course description
 
@@ -23,7 +31,7 @@ required for enrollment.
 
 ### Course requirements
 
-To obtain full credit, students must attend 7/9 of the lectures,
+To obtain full credit, students must attend 7/9 of classes,
 complete all reading and homework assignments, and achieve a passing
 grade overall. If any students believe they may have to miss more that
 two of the lectures, they must discuss this with the lead instructor
@@ -50,33 +58,39 @@ concurrently) focus on statistical inference. Students will evaluate
 the written products (homework) of other students, to develop their
 critical mindset for technical diagrams and writing.
 
-### Generative AI
+### Generative AI in BCB 724
 
-It is allowed to use Generative AI (e.g. ChatGPT) to correct
-spelling/grammar in your assignments in BCB 724.
+Allowed:
 
-I do not want students to use Generative AI to write entire paragraphs
-of text and submit as one's own work, nor to critique others'
-work. This type of usage is therefore not allowed in BCB 724. The
-reason for this is to help students develop inherent communication
-skills, which you can draw on in a variety of contexts, including
-collaborative meetings and conferences. I will not use Generative AI
-to grade your assignments, and I would ask you and your peers to do
-the same.
+* It is allowed to use Generative AI to correct spelling or grammar in 
+  your assignments in BCB 724.
+
+Not allowed:
+
+* It is not allowed to use Generative AI to write entire paragraphs
+  of text and submit as one's own work as a writing assigment.
+* It is not allowed to use Generative AI to critique others' work. 
+
+Instructors:
+
+* Instructors (myself and TAs) will not use Generative AI to grade 
+  your assignments.
+
+The point of the class is to help students develop communication skills, to draw
+upon in a variety of contexts, including collaborative meetings and
+conferences. In addition, large sections of text from Generative AI is currently
+somewhat obvious to detect in scientific writing, and including large sections
+of text that you did not write is likely to go against your own objectives in
+communication.
 
 Generative AI can be useful in drafting boilerplate communications,
-or in brainstorming topic outlines, but I recommend to read the 
+or in brainstorming ideas, but I recommend to read the 
 [Guidance from the UNC Committee](https://provost.unc.edu/generative-ai-usage-guidance-for-the-research-community/)
 on usage in research, in particular risks regarding bias,
 confidentiality, and intellectual property/plagiarism.
-It is never allowed to paste HIPAA- or FERPA-protected data into
-public Generative AI tools.
 
-I would also recommend against using Generative AI for writing code
-for the few coding assignments. For someone who is still learning
-programming, this strategy may save you time in the short term, but
-tends to produce a shallower form of understanding, and limit your
-skills in the long term.
+**Note:** It is never allowed to paste HIPAA- or FERPA-protected data 
+into public Generative AI tools.
 
 ### Related courses
 
