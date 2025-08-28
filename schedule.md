@@ -5,18 +5,19 @@ title: Schedule
 
 Location: 6004 Marsico Hall
 
-[Assignments/readings](https://docs.google.com/spreadsheets/d/1yg4LUYnHQ5A9KbaC08t0Z9FL6Q-Mc-tabcO4cVwTZ38/edit?gid=0#gid=0)
+Note: *Assignments/readings* is not up to date for Fall 2025 yet.
 
-_Schedule for Fall 2025 is coming soon_
+[Assignments/readings](https://docs.google.com/spreadsheets/d/1yg4LUYnHQ5A9KbaC08t0Z9FL6Q-Mc-tabcO4cVwTZ38/edit?gid=0#gid=0)
 
 | Date   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic |
 | :----- | :--: | :---- |
 | Oct 30 | 👁️  | Reading as a writer, structure of a science paper |
-| Nov -- | ~  | Pre-recorded lecture |
-| Nov -- | 🗂️  | Describing data, data organization
-| Nov -- | 📈 | Data visualization, visual argument |
-| Nov -- | 💻 | Communicating through code, code organization |
-| Nov -- | 🎯 | Narrative arc, design principles |
-| Nov -- | ✒️  | Concise science writing |
-| Dec -- | ➡️  | Causal inference |
-| ~~~~~~ | 👥 | Interdisciplinary collaboration & presentations |
+| Nov  4 | 🗂️  | Describing data, data organization, data accessibility |
+| Nov  6 | ~  | TBD |
+| Nov 11 | 📈 | Data visualization, visual argument |
+| Nov 13 | 💻 | Communicating through code, code organization |
+| Nov 18 | 🎯 | Data science: narrative arc, design principles |
+| Nov 20 | ✒️  | Concise (data) science writing |
+| Nov 25 | ~  | TBD |
+| Dec 2 | ➡️  | Causal inference |
+| Dec 4 | 👥 | Interdisciplinary collaboration & presentations |

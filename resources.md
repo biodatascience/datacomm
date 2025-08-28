@@ -14,6 +14,15 @@ title: Resources
   Gary Black and Robert Bly
 * [Project design and evolution image](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-025-02635-7/MediaObjects/41587_2025_2635_Fig1_HTML.png?as=webp) from [Yanai and Lercher](https://doi.org/10.1038/s41587-025-02635-7)
 
+#### Visualization and modeling
+
+* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) <br/>
+  Edward Tufte
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (online) <br/>
+  Claus Wilke
+* [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
+  Andrew Gelman and Jennifer Hill
+
 #### Causal inference and societal impact of data analysis
 
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
@@ -24,15 +33,6 @@ title: Resources
   Caroline Criado Perez
 * [Data Feminism](https://data-feminism.mitpress.mit.edu/) <br/>
   Catherine D'Ignazio and Lauren F. Klein
-
-#### Visualization and modeling
-
-* [The Visual Display of Quantitative Information](https://www.edwardtufte.com/tufte/books_vdqi) <br/>
-  Edward Tufte
-* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) (online) <br/>
-  Claus Wilke
-* [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
-  Andrew Gelman and Jennifer Hill
 
 ## Articles
 
@@ -50,7 +50,7 @@ title: Resources
 * [Ten simple rules for structuring papers](https://doi.org/10.1371/journal.pcbi.1005619) <br/>
   Brett Mensh and Konrad Kording
 
-#### Data and project organization
+#### Data/project organization, data accessibility
 
 * [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) <br/>
   Karl Broman and Kara Woo
@@ -62,7 +62,9 @@ title: Resources
 * [Commit-to-change](https://github.com/franzenr/commit-to-change#resources) Resources <br/>
   Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects <br/> 
   Given at Posit::conf(2023) on 20 September 2023
-  
+* [Ten Simple Rules for Making Biomedical Data Resources Accessible](https://osf.io/preprints/osf/gqy8k_v1) <br/>
+  Thomas C Smits, Lawrence Weru, Nils Gehlenborg, and Sehi L'Yi 
+
 #### Reproducibility
 
 * [The five pillars of computational reproducibility: Bioinformatics and beyond](https://osf.io/4pd9n/) <br/>
