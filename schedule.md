@@ -5,8 +5,6 @@ title: Schedule
 
 Location: 6004 Marsico Hall
 
-Note: *Assignments/readings* is not up to date for Fall 2025 yet.
-
 [Assignments/readings](https://docs.google.com/spreadsheets/d/1yg4LUYnHQ5A9KbaC08t0Z9FL6Q-Mc-tabcO4cVwTZ38/edit?gid=0#gid=0)
 
 | Date   | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Topic |
