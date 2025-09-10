@@ -23,17 +23,6 @@ title: Resources
 * [Data Analysis Using Regression and Multilevel/Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) <br/>
   Andrew Gelman and Jennifer Hill
 
-#### Causal inference and societal impact of data analysis
-
-* [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
-  Miguel Hernán and James Robins  
-* [Thicker than Blood: How Racial Statistics Lie](https://www.upress.umn.edu/book-division/books/thicker-than-blood) <br/> 
-  Tukufu Zuberi
-* [Invisible Women](https://carolinecriadoperez.com/book/invisible-women/) <br/>
-  Caroline Criado Perez
-* [Data Feminism](https://data-feminism.mitpress.mit.edu/) <br/>
-  Catherine D'Ignazio and Lauren F. Klein
-
 ## Articles
 
 #### Listening
@@ -89,6 +78,11 @@ title: Resources
   Scott Hotaling
 * [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) <br/>
   George Gopen and Judith Swan
+
+#### Causal inference and societal impact of data analysis
+
+* [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
+  Miguel Hernán and James Robins  
 
 #### Interdisciplinary collaboration
 
