@@ -48,9 +48,8 @@ title: Resources
 * [A Quick Guide to Organizing Computational Biology Projects](https://doi.org/10.1371/journal.pcbi.1000424) <br/>
   William Stafford Noble
 * [The FAIR Guiding Principles for scientific data management and stewardship](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/)
-* [Commit-to-change](https://github.com/franzenr/commit-to-change#resources) Resources <br/>
-  Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects <br/> 
-  Given at Posit::conf(2023) on 20 September 2023
+* [Code Accessibility Resources](https://github.com/franzenr/commit-to-change#resources) <br/>
+  Commit to Change: How to Increase Accessibility in Your Favorite Open Source Projects
 * [Ten Simple Rules for Making Biomedical Data Resources Accessible](https://osf.io/preprints/osf/gqy8k_v1) <br/>
   Thomas C Smits, Lawrence Weru, Nils Gehlenborg, and Sehi L'Yi 
 
@@ -79,10 +78,10 @@ title: Resources
 * [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) <br/>
   George Gopen and Judith Swan
 
-#### Causal inference and societal impact of data analysis
+#### Causal inference
 
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
-  Miguel Hernán and James Robins  
+  Miguel Hernán and James Robins
 
 #### Interdisciplinary collaboration
 
