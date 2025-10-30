@@ -11,7 +11,7 @@ Location: 6004 Marsico Hall
 | :----- | :--: | :---- |
 | Oct 30 | 👁️  | Reading as a writer, structure of a science paper |
 | Nov  4 | 🗂️  | Describing data, data organization, data accessibility |
-| Nov  6 | ~  | TBD |
+| Nov  6 | ⚖️  | Paradoxical thinking |
 | Nov 11 | 📈 | Data visualization, visual argument |
 | Nov 13 | 💻 | Communicating through code, code organization |
 | Nov 18 | 🎯 | Data science: narrative arc, design principles |
