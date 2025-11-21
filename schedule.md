@@ -17,5 +17,5 @@ Location: 6004 Marsico Hall
 | Nov 18 | 🎯 | Data science: narrative arc, design principles |
 | Nov 20 | ✒️  | Concise (data) science writing |
 | Nov 25 | ~  | TBD |
-| Dec 2 | ➡️  | Causal inference |
+| Dec 2 | ➡️  | Communicating estimates |
 | Dec 4 | 👥 | Interdisciplinary collaboration & presentations |
