@@ -78,8 +78,9 @@ title: Resources
 * [The Science of Scientific Writing](https://cseweb.ucsd.edu/~swanson/papers/science-of-writing.pdf) <br/>
   George Gopen and Judith Swan
 
-#### Causal inference
+#### Estimation, study samples, and populations
 
+* [Mike's notes on estimation](https://github.com/UBDS-3/Statistics-track-v2/blob/master/labs/randomness/randomness.html) (click download button)
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
   Miguel Hernán and James Robins
 
