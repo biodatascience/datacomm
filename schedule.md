@@ -18,4 +18,4 @@ Location: 6004 Marsico Hall
 | Nov 20 | ✒️  | Concise (data) science writing |
 | Nov 25 | ~  | TBD |
 | Dec 2 | ➡️  | Communicating estimates |
-| Dec 4 | 👥 | Interdisciplinary collaboration & presentations |
+| Dec 4 | 👥 | Interdisciplinary collaboration |
