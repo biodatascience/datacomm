@@ -13,11 +13,11 @@ Department of Biostatistics <br/>
 5009 Genetic Medicine Building (GMB) <br/>
 Email: love at unc.edu 
 
-*TA*
+*Teaching Assistant*
 
-Brittanie Winfield <br/>
-BCB PhD candidate in Linnstaedt lab <br/>
-Email: brittwin at email.unc.edu
+TBD <br/>
+BCB PhD candidate <br/>
+Email: ... at email.unc.edu
 
 ### Course description
 
@@ -39,10 +39,10 @@ in advance.
 
 ### Grading rubric
 
-* Reading quizzes: 40%
+* Daily reading quizzes: 40%
 * Communication products and critique: 60%
 
-### Syllabus
+### Goals, Evaluation, Expectations
 
 This course focuses on topics in visualizing, writing, and speaking
 about biological and biomedical data. Each class will involve short

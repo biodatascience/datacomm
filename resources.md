@@ -80,7 +80,7 @@ title: Resources
 
 #### Estimation, study samples, and populations
 
-* [Mike's notes on estimation](https://github.com/UBDS-3/Statistics-track-v2/blob/master/labs/randomness/randomness.html) (click download button)
+* [Mike's notes on estimation](https://github.com/mikelove/stats-notebooks/blob/main/randomness/randomness.qmd)
 * [Causal Inference: What If](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) <br/>
   Miguel Hernán and James Robins
 
