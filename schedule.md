@@ -17,6 +17,5 @@ Location: 6004 Marsico Hall
 | Nov 12 | 💻 | Communicating through code, code organization |
 | Nov 17 | 🎯 | Data science: narrative arc, design principles |
 | Nov 19 | ✒️  | Concise science writing |
-| Nov 24 | ~  | TBD |
-| Dec 1  | ➡️  | Communicating estimates |
-| Dec 3  | 👥 | Interdisciplinary collaboration |
+| Nov 24 | ➡️  | Communicating estimates |
+| Dec 1  | 👥 | Interdisciplinary collaboration |
