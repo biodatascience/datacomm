@@ -15,9 +15,9 @@ Email: love at unc.edu
 
 *Teaching Assistant*
 
-TBD <br/>
+Damien Guilbaud <br/>
 BCB PhD candidate <br/>
-Email: ... at email.unc.edu
+Email: dpguilba at email.unc.edu
 
 ### Course description
 
